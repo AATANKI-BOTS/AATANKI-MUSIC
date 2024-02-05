@@ -36,7 +36,7 @@ async def init():
     await app.start()
     for all_module in ALL_MODULES:
         importlib.import_module("AnonXMusic.plugins" + all_module)
-    LOGGER("AnonXMusic.plugins").info("Successfully Imported Modules...")
+    LOGGER("AnonXMusic.plugins").info("𝚲꯭ᴛΔɴᴋɪ  ✘ ᴍᴜsɪᴄ Successfully Imported Modules...")
     await userbot.start()
     await Anony.start()
     try:
@@ -54,7 +54,7 @@ async def init():
     )
     await idle()
     await app.stop()
-    LOGGER("AnonXMusic").info("Stopping AnonX Music Bot...")
+    LOGGER("AnonXMusic").info("Stopping 𝚲꯭ᴛΔɴᴋɪ  ✘ ᴍᴜsɪᴄ Bot...")
 
 
 if __name__ == "__main__":
