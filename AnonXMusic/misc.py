@@ -72,5 +72,5 @@ def heroku():
                 LOGGER(__name__).info(f"Heroku App Configured")
             except BaseException:
                 LOGGER(__name__).warning(
-                    f"Please make sure your Heroku API Key and Your App name are configured correctly in the heroku."
+                    f"𝐇𝐄𝐑𝐎𝐊𝐔 𝐀𝐏𝐈 𝐓𝐇𝐈𝐊 𝐇𝐀𝐈 𝐍𝐀 𝐁𝐇𝐀𝐈 𝐂𝐇𝐄𝐂𝐊 𝐊𝐑𝐎."
                 )
