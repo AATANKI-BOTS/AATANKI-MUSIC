@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/6323db8f90360332b8870.jpg" alt="Lily Music Logo" width="470" height="660">
+  <img src="https://graph.org/file/6323db8f90360332b8870.jpg" alt="Lily Music Logo" width="570" height="660">
 </p>
 
    <p align="center">
@@ -16,7 +16,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/venomXbots/Lilyrobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AATANKI-BOTS/AATANKI-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
    <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠𝙵𝚘𝚛𝚔+𝚃𝚑𝚒𝚜+𝚁𝚎𝚙𝚘+𝙵𝚒𝚛𝚜𝚝⚠">
 
@@ -24,7 +24,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/venomXbots/Lilyrobot)
+- Get your [Necessary Variables](https://github.com/AATANKI-BOTS/AATANKI-MUSIC)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -36,7 +36,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/venomXbots/Lilyrobot && cd Lilyrobot`
+`git clone https://github.com/AATANKI-BOTS/AATANKI-MUSIC && cd AATANKI-MUSIC
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -57,14 +57,14 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/The_Ghost_Iisland"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Thecchub"><img src="https://img.shields.io/badge/-Support%20Group-azure.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h2 align="center">
 ─「 sᴜᴩᴩᴏʀᴛ-ᴄʜᴀᴛ 」─
 
 <p align="center">
-<a href="https://telegram.me/Lily_x_bots"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Lily_x_bots"><img src="https://img.shields.io/badge/-Support%20Channel-azure.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 </h3>
 
